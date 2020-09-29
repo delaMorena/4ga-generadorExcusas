@@ -1,0 +1,9 @@
+body {
+    font-family: 'Crafty Girls', cursive;
+}
+
+.container {
+    background-image: url(https://image.freepik.com/foto-gratis/fondo-papel-cuaderno_36078-69.jpg);
+    height: 500px;
+    width: 600px;
+} 
